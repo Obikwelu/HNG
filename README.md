@@ -39,3 +39,9 @@ To learn more i4G visit https://ingressive.org/
 
 ![IMG-20210818-WA0006](https://user-images.githubusercontent.com/31783214/129888277-fa76ecc2-ce63-4e55-abad-e4c85b854329.jpg)
 
+
+
+Uploading VID-20210818-WA0008.mp4…
+
+
+
