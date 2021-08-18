@@ -32,3 +32,10 @@ To learn more about HNG visit https://hng.tech/
 
 To learn more i4G visit https://ingressive.org/
 
+
+![IMG-20210818-WA0007](https://user-images.githubusercontent.com/31783214/129888251-dbb4f42c-9f6a-4631-864d-a9ee39954583.jpg)
+
+
+
+![IMG-20210818-WA0006](https://user-images.githubusercontent.com/31783214/129888277-fa76ecc2-ce63-4e55-abad-e4c85b854329.jpg)
+
