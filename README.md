@@ -13,7 +13,13 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.![images (1)](https://user-images.githubusercontent.com/31783214/129866235-8356b076-4456-41c3-ae27-9ced0a7cd6ae.png)![download (2)](https://user-images.githubusercontent.com/31783214/129866323-389be917-b909-4166-9960-fa5ab271a3d1.png)
+samples, guidance on mobile development, and a full API reference.
+![images (1)](https://user-images.githubusercontent.com/31783214/129866235-8356b076-4456-41c3-ae27-9ced0a7cd6ae.png)![download (2)](https://user-images.githubusercontent.com/31783214/129866323-389be917-b909-4166-9960-fa5ab271a3d1.png)
 ![download (3)](https://user-images.githubusercontent.com/31783214/129866547-34372bf6-6b30-44ef-93d4-bad535d55b83.png)
- This Project is courtesy Zuri internship, HNG and i4G
+
+
+This Project is courtesy Zuri internship, HNG and i4G
+
+It's a simple app that accepts users input and displays the name
+
 
